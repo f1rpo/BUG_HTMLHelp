@@ -1,0 +1,61 @@
+[OPTIONS]
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=TaurusHelp-DEU.chm
+Contents file=TaurusHelp-DEU.hhc
+Default Font=Liberation Sans,12,0
+Default topic=WhatIs.html
+Display compile progress=No
+Language=0x407 German (Germany)
+Title=Taurus Help
+
+
+[FILES]
+Changes.html
+Commands.html
+contact.html
+IncludedMods.html
+Installation.html
+Options.html
+WhatIs.html
+IncludedMods\Asphalt.html
+IncludedMods\Autolog.html
+IncludedMods\BES.html
+IncludedMods\BIS.html
+IncludedMods\CamCDAp.html
+IncludedMods\CDA.html
+IncludedMods\CGPT.html
+IncludedMods\CityArrows.html
+IncludedMods\Civ4lerts.html
+IncludedMods\EVS.html
+IncludedMods\GGPB.html
+IncludedMods\Glance.html
+IncludedMods\GPPB.html
+IncludedMods\GPTech.html
+IncludedMods\Hints.html
+IncludedMods\IFAIS.html
+IncludedMods\MA.html
+IncludedMods\NJAGC.html
+IncludedMods\PLE.html
+IncludedMods\RawYields.html
+IncludedMods\Reminders.html
+IncludedMods\Scoreboard.html
+IncludedMods\Sevopedia.html
+IncludedMods\SpecialistStacker.html
+IncludedMods\TechWindow.html
+IncludedMods\UnitNaming.html
+IncludedMods\WhipAssistant.html
+IncludedMods\WideCityBars.html
+Options\Advisors.html
+Options\Alerts.html
+Options\Clock.html
+Options\Credits.html
+Options\General.html
+Options\Logging.html
+Options\PlotList.html
+Options\Scoreboard.html
+Options\System.html
+Options\UnitNaming.html
+
+[INFOTYPES]
+
