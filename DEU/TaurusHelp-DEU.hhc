@@ -10,13 +10,28 @@
 </OBJECT>
 <UL>
 	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="The Taurus Mod">
+		<param name="Local" value="Taurus.html">
+		<param name="ImageNumber" value="11">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
 		<param name="Name" value="Was ist die BUG Mod?">
 		<param name="Local" value="WhatIs.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Installation der BUG Mod">
-		<param name="Local" value="Installation.html">
+		<param name="Name" value="How to Install">
+		<param name="Local" value="HowToInstall.html">
+		<param name="ImageNumber" value="11">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Savegame Compatibility">
+		<param name="Local" value="SaveCompatibility.html">
+		<param name="ImageNumber" value="11">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Taurus Additions">
+		<param name="Local" value="TaurusAdditions.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">

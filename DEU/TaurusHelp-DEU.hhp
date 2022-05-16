@@ -4,7 +4,7 @@ Compatibility=1.1 or later
 Compiled file=TaurusHelp-DEU.chm
 Contents file=TaurusHelp-DEU.hhc
 Default Font=Liberation Sans,12,0
-Default topic=WhatIs.html
+Default topic=Taurus.html
 Display compile progress=No
 Language=0x407 German (Germany)
 Title=Taurus Help
@@ -56,6 +56,10 @@ Options\PlotList.html
 Options\Scoreboard.html
 Options\System.html
 Options\UnitNaming.html
+Taurus.html
+HowToInstall.html
+SaveCompatibility.html
+TaurusAdditions.html
 
 [INFOTYPES]
 
