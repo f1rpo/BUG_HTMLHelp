@@ -30,6 +30,11 @@
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Support for Network Games">
+		<param name="Local" value="NetworkSupport.html">
+		<param name="ImageNumber" value="11">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
 		<param name="Name" value="Taurus Additions">
 		<param name="Local" value="TaurusAdditions.html">
 		<param name="ImageNumber" value="11">
