@@ -10,78 +10,58 @@
 </OBJECT>
 <UL>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="The Taurus Mod">
-		<param name="Local" value="Taurus.html">
-		<param name="ImageNumber" value="11">
-		</OBJECT>
-	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Was ist die BUG Mod?">
+		<param name="Name" value="What is the BUG Mod?">
 		<param name="Local" value="WhatIs.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">
 		<param name="Name" value="How to Install">
-		<param name="Local" value="HowToInstall.html">
+		<param name="Local" value="Installation.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Savegame Compatibility">
-		<param name="Local" value="SaveCompatibility.html">
-		<param name="ImageNumber" value="11">
-		</OBJECT>
-	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Support for Network Games">
-		<param name="Local" value="NetworkSupport.html">
-		<param name="ImageNumber" value="11">
-		</OBJECT>
-	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Taurus Additions">
-		<param name="Local" value="TaurusAdditions.html">
-		<param name="ImageNumber" value="11">
-		</OBJECT>
-	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Optionsbildschirmn">
+		<param name="Name" value="BUG Options Screen">
 		<param name="Local" value="Options.html">
 		<param name="ImageNumber" value="1">
 		</OBJECT>
 	<UL>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Allgemein">
+			<param name="Name" value="General">
 			<param name="Local" value="Options/General.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Berater">
+			<param name="Name" value="Advisors">
 			<param name="Local" value="Options/Advisors.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Uhr">
+			<param name="Name" value="Clock">
 			<param name="Local" value="Options/Clock.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Punkteanzeige">
+			<param name="Name" value="Scoreboard">
 			<param name="Local" value="Options/Scoreboard.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Warnungen">
+			<param name="Name" value="Alerts">
 			<param name="Local" value="Options/Alerts.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Einheitenliste">
+			<param name="Name" value="Plot List">
 			<param name="Local" value="Options/PlotList.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Protokollierung">
+			<param name="Name" value="Logging">
 			<param name="Local" value="Options/Logging.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Einheitennamen">
+			<param name="Name" value="Unit Naming">
 			<param name="Local" value="Options/UnitNaming.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
@@ -97,12 +77,12 @@
 			</OBJECT>
 	</UL>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Tastaturk&#252;rzel der BUG Mod">
+		<param name="Name" value="Shortcut Commands in BUG Mod">
 		<param name="Local" value="Commands.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Liste der Mods">
+		<param name="Name" value="Included Mods">
 		<param name="Local" value="IncludedMods.html">
 		<param name="ImageNumber" value="1">
 		</OBJECT>
@@ -133,7 +113,7 @@
 			<param name="ImageNumber" value="11">
 			</OBJECT>
 		<LI> <OBJECT type="text/sitemap">
-			<param name="Name" value="Custom Domestic Advisor (CDA)">
+			<param name="Name" value="Customizable Domestic Advisor (CDA)">
 			<param name="Local" value="IncludedMods/CDA.html">
 			<param name="ImageNumber" value="11">
 			</OBJECT>
@@ -249,12 +229,12 @@
 			</OBJECT>
 	</UL>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Ver&#228;nderungen an den urspr&#252;nglichen Mods">
+		<param name="Name" value="Changes made to original Mods">
 		<param name="Local" value="Changes.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
 	<LI> <OBJECT type="text/sitemap">
-		<param name="Name" value="Das Team der BUG Mod kontaktieren">
+		<param name="Name" value="How to contact The BUG Team">
 		<param name="Local" value="Contact.html">
 		<param name="ImageNumber" value="11">
 		</OBJECT>
