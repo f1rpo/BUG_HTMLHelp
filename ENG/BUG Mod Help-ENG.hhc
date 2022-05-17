@@ -10,6 +10,11 @@
 </OBJECT>
 <UL>
 	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="About this Help">
+		<param name="Local" value="About.html">
+		<param name="ImageNumber" value="11">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
 		<param name="Name" value="What is the BUG Mod?">
 		<param name="Local" value="WhatIs.html">
 		<param name="ImageNumber" value="11">
