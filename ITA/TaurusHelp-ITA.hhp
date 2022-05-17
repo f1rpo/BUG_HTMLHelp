@@ -1,13 +1,13 @@
 [OPTIONS]
 Binary Index=No
 Compatibility=1.1 or later
-Compiled file=BUG Mod Help-ENG.chm
-Contents file=BUG Mod Help-ENG.hhc
+Compiled file=TaurusHelp-ITA.chm
+Contents file=TaurusHelp-ITA.hhc
 Default Font=Liberation Sans,12,0
-Default topic=WhatIs.html
+Default topic=Taurus.html
 Display compile progress=No
-Language=0x409 English (United States)
-Title=BUG Mod Help
+Language=0x410 Italian (Italy)
+Title=Taurus Help
 
 
 [FILES]
@@ -56,6 +56,11 @@ Options\PlotList.html
 Options\Scoreboard.html
 Options\System.html
 Options\UnitNaming.html
+Taurus.html
+HowToInstall.html
+SaveCompatibility.html
+TaurusAdditions.html
+NetworkSupport.html
 
 [INFOTYPES]
 
